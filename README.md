@@ -1,2 +1,2 @@
 ## Our Article Url:
-## <SoydngP: a web-accessible deep learning framework for genomic prediction in soybean breeding | Briefings in Bioinformatics | Oxford Academic> 
+### (https://doi.org/10.1093/bib/bbad349)
